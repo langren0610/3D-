@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">照片查看</string>
+    <string name="delete_menu">删除</string>
+    <string name="share_menu">分享</string>
+    <string name="action_settings">设置</string>
+    <string name="delete_success">删除成功!</string>
+    <string name="delete_failed">删除失败!</string>
+    <string name="share_photo">分享</string>
+    <string name="last_page">这已经是最后一张了</string>
+    <string name="first_page">这已经是第一张了</string>
+</resources>
